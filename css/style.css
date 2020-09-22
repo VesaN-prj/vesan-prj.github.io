@@ -1,0 +1,17 @@
+/* 
+
+*/
+
+.customfont {
+    font-family: 'Press Start 2P';
+    letter-spacing: 0.01ch;
+    /* font-family: 'Aldrich'; */
+}
+
+.vh-85{
+    height:85vh !important;
+}
+
+.nav-pills .nav-link.active,.nav-pills .show>.nav-link{
+    color:#fff;background-color:#303030;
+}
